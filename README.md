@@ -1,6 +1,6 @@
 # Hi! My name is Mohamed amine Mounir 😄
 
-🌍  I am a Front-End Developer based in Belgrade, Serbia.
+🌍  I am a Front-End Developer based in Morroco, Khouribga.
 <br/>
 
 ### Skills
