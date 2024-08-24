@@ -1,5 +1,4 @@
 
-```markdown
 # Mohamed Amine Mounir - Front-End Developer Portfolio
 
 [Explore my portfolio](https://amine-dev-bice.vercel.app/)
