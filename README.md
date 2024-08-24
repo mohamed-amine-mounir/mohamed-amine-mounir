@@ -1,4 +1,4 @@
-# Mohamed Amine Mounir - Portfolio Website
+# Mohamed Amine Mounir 
 
 
 [Explore my portfolio](aminedev.vercel)
