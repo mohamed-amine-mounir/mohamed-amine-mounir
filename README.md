@@ -1,7 +1,7 @@
 # Mohamed Amine Mounir 
 
 
-[Explore my portfolio](aminedev.vercel)
+[Explore my portfolio][(aminedev.vercel)](https://amine-dev-bice.vercel.app/)
 
 🌍 Welcome to my personal portfolio website, where I showcase my skills and projects as a junior front-end developer with a focus on React and Next.js. This site highlights my proficiency in modern web development and the popular React ecosystem.
 
