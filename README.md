@@ -1,7 +1,7 @@
 # Mohamed Amine Mounir - Portfolio Website
 
-## Live Site
-[Explore my portfolio](Your portfolio URL here)
+
+[Explore my portfolio](aminedev.vercel)
 
 🌍 Welcome to my personal portfolio website, where I showcase my skills and projects as a junior front-end developer with a focus on React and Next.js. This site highlights my proficiency in modern web development and the popular React ecosystem.
 
@@ -54,16 +54,10 @@
 - JavaScript (ES6+)
 - TypeScript
 - Redux
-- React Query
 - Styled Components
 - Material-UI
 - Jest & React Testing Library
-- HTML5 & CSS3
-
----
-
-## Setup and Installation
-[Include detailed setup instructions]
+- HTML5 & TailwindCss
 
 ---
 
@@ -97,7 +91,8 @@ I am continuously expanding my expertise in React and Next.js. This portfolio re
 ---
 
 ## Contact
-[Include your contact information]
+mohamedaminemounir7@gmail.com 
+
 
 ---
 
