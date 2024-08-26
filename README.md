@@ -1,4 +1,3 @@
-
 # Mohamed Amine Mounir - Front-End Developer Portfolio
 
 [Explore my portfolio](https://amine-dev-bice.vercel.app/)
@@ -54,34 +53,10 @@
 - 🔄 Redux
 - 💅 Styled Components
 - 🎨 Material-UI
-- 🧪  React Testing Library
+- 🧪 React Testing Library
 - 🌐 HTML5 & TailwindCSS
 
 ---
 
 ## 📂 Project Structure
 
-```
-
-My portfolio is a testament to my continuous growth in React and Next.js, featuring:
-
-- **🚀 Server-Side Rendering (SSR)** and Static Site Generation (SSG) with Next.js
-- **🔄 State Management** mastery using Redux
-- **🌐 API Data Fetching** and caching with React Query
-
-## 🔮 Future Enhancements
-
-- Implement advanced React patterns (e.g., render props, higher-order components)
-- Integrate GraphQL with Apollo Client for optimized data fetching
-- Expand test coverage with more comprehensive unit and integration tests
-- Explore React Native for cross-platform mobile development
-- Implement a headless CMS for easier content management
-
----
-
-## 📬 Get in Touch
-
-📧 mohamedaminemounir7@gmail.com
-
-
-Feel free to explore my portfolio and reach out if you'd like to collaborate or have any questions!
