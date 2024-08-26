@@ -29,10 +29,9 @@
 - **🔄 Redux**: Robust state management for complex applications
 - **🔍 React Query**: Efficient server state management and API integration
 - **💅 Styled Components**: Elegant component-level styling
-- **🌐 Axios**: Streamlined HTTP requests
 - **📝 Formik**: Intuitive form building and validation
 - **🎨 Material-UI**: Sleek and responsive UI components
-- **🧪 Jest & React Testing Library**: Comprehensive unit and integration testing
+- **🧪 React Testing Library**: Comprehensive unit and integration testing
 - **🧹 ESLint & Prettier**: Ensuring code quality and consistency
 
 ---
@@ -44,7 +43,6 @@
 - **🔗 Dynamic Routing**: Engaging project showcases with dynamic routes
 - **🔄 State Management**: Demonstrated proficiency with Redux
 - **🌐 API Integration**: Mastery of React Query and Axios
-- **📝 Form Handling**: Smooth implementations with Formik
 - **🎨 UI Components**: Stylish designs using Material-UI
 
 ---
@@ -54,11 +52,10 @@
 - ⚛️ React
 - ▲ Next.js
 - 📜 JavaScript (ES6+)
-- 🔷 TypeScript
 - 🔄 Redux
 - 💅 Styled Components
 - 🎨 Material-UI
-- 🧪 Jest & React Testing Library
+- 🧪  React Testing Library
 - 🌐 HTML5 & TailwindCSS
 
 ---
@@ -76,16 +73,6 @@ src/
 |-- redux/
 |-- api/
 |-- tests/
-```
-
----
-
-## 📸 Project Highlights
-
-[]
-
----
-
 ## 🌱 Learning Journey
 
 My portfolio is a testament to my continuous growth in React and Next.js, featuring:
@@ -93,10 +80,6 @@ My portfolio is a testament to my continuous growth in React and Next.js, featur
 - **🚀 Server-Side Rendering (SSR)** and Static Site Generation (SSG) with Next.js
 - **🔄 State Management** mastery using Redux
 - **🌐 API Data Fetching** and caching with React Query
-- **🔒 Authentication** implementation
-- **🎨 Advanced UI/UX** design principles
-
----
 
 ## 🔮 Future Enhancements
 
@@ -114,10 +97,5 @@ My portfolio is a testament to my continuous growth in React and Next.js, featur
 
 ---
 
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 Feel free to explore my portfolio and reach out if you'd like to collaborate or have any questions!
+(https://amine-dev-bice.vercel.app/)
