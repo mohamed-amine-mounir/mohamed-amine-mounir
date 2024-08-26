@@ -29,7 +29,6 @@
 - **🔄 Redux**: Robust state management for complex applications
 - **🔍 React Query**: Efficient server state management and API integration
 - **💅 Styled Components**: Elegant component-level styling
-- **📝 Formik**: Intuitive form building and validation
 - **🎨 Material-UI**: Sleek and responsive UI components
 - **🧪 React Testing Library**: Comprehensive unit and integration testing
 - **🧹 ESLint & Prettier**: Ensuring code quality and consistency
