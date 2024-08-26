@@ -1,62 +1,122 @@
-# Mohamed Amine Mounir - Front-End Developer Portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mohamed Amine Mounir - Front-End Developer Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Mohamed Amine Mounir - Front-End Developer Portfolio</h1>
+    <a href="https://amine-dev-bice.vercel.app/" target="_blank">Explore my portfolio</a>
+  </header>
 
-[Explore my portfolio](https://amine-dev-bice.vercel.app/)
+  <section id="intro">
+    <p>🚀 Welcome to my personal portfolio website, showcasing my journey as a passionate junior front-end developer specializing in React and Next.js. This digital space highlights my expertise in modern web development and my proficiency in the React ecosystem.</p>
+  </section>
 
-🚀 Welcome to my personal portfolio website, showcasing my journey as a passionate junior front-end developer specializing in React and Next.js. This digital space highlights my expertise in modern web development and my proficiency in the React ecosystem.
+  <hr>
 
----
+  <section id="skills">
+    <h2>🛠️ Skills</h2>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next" alt="Skills" />
+    </a>
+  </section>
 
-## 🛠️ Skills
+  <hr>
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,next)](https://skillicons.dev)
+  <section id="connect">
+    <h2>🌐 Connect with Me</h2>
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/mohamed-amine-mounir/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+      </a>
+    </div>
+  </section>
 
----
+  <hr>
 
-## 🌐 Connect with Me
+  <section id="libraries">
+    <h2>📚 Key React Libraries and Skills</h2>
+    <ul>
+      <li><strong>⚛️ React Router</strong>: Seamless client-side routing</li>
+      <li><strong>🔄 Redux</strong>: Robust state management for complex applications</li>
+      <li><strong>🔍 React Query</strong>: Efficient server state management and API integration</li>
+      <li><strong>💅 Styled Components</strong>: Elegant component-level styling</li>
+      <li><strong>🎨 Material-UI</strong>: Sleek and responsive UI components</li>
+      <li><strong>🧪 React Testing Library</strong>: Comprehensive unit and integration testing</li>
+      <li><strong>🧹 ESLint & Prettier</strong>: Ensuring code quality and consistency</li>
+    </ul>
+  </section>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/mohamed-amine-mounir/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+  <hr>
 
----
+  <section id="features">
+    <h2>✨ Features</h2>
+    <ul>
+      <li><strong>🚀 Server-Side Rendering (SSR)</strong>: Optimized performance and SEO with Next.js</li>
+      <li><strong>📱 Responsive Design</strong>: Seamless experience across all devices</li>
+      <li><strong>🔗 Dynamic Routing</strong>: Engaging project showcases with dynamic routes</li>
+      <li><strong>🔄 State Management</strong>: Demonstrated proficiency with Redux</li>
+      <li><strong>🌐 API Integration</strong>: Mastery of React Query and Axios</li>
+      <li><strong>🎨 UI Components</strong>: Stylish designs using Material-UI</li>
+    </ul>
+  </section>
 
-## 📚 Key React Libraries and Skills
+  <hr>
 
-- **⚛️ React Router**: Seamless client-side routing
-- **🔄 Redux**: Robust state management for complex applications
-- **🔍 React Query**: Efficient server state management and API integration
-- **💅 Styled Components**: Elegant component-level styling
-- **🎨 Material-UI**: Sleek and responsive UI components
-- **🧪 React Testing Library**: Comprehensive unit and integration testing
-- **🧹 ESLint & Prettier**: Ensuring code quality and consistency
+  <section id="technologies">
+    <h2>🔧 Technologies Used</h2>
+    <ul>
+      <li>⚛️ React</li>
+      <li>▲ Next.js</li>
+      <li>📜 JavaScript (ES6+)</li>
+      <li>🔄 Redux</li>
+      <li>💅 Styled Components</li>
+      <li>🎨 Material-UI</li>
+      <li>🧪 React Testing Library</li>
+      <li>🌐 HTML5 & TailwindCSS</li>
+    </ul>
+  </section>
 
----
+  <hr>
 
-## ✨ Features
+  <section id="project-structure">
+    <h2>📂 Project Structure</h2>
+    <pre>
+src/
+├── components/
+├── imgs/
+├── sections/
+├── App.css
+├── App.jsx
+├── index.css
+└── index.jsx
+    </pre>
+  </section>
 
-- **🚀 Server-Side Rendering (SSR)**: Optimized performance and SEO with Next.js
-- **📱 Responsive Design**: Seamless experience across all devices
-- **🔗 Dynamic Routing**: Engaging project showcases with dynamic routes
-- **🔄 State Management**: Demonstrated proficiency with Redux
-- **🌐 API Integration**: Mastery of React Query and Axios
-- **🎨 UI Components**: Stylish designs using Material-UI
+  <hr>
 
----
+  <section id="future-enhancements">
+    <h2>🔮 Future Enhancements</h2>
+    <ul>
+      <li>Implement advanced React patterns (e.g., render props, higher-order components)</li>
+      <li>Integrate GraphQL with Apollo Client for optimized data fetching</li>
+      <li>Expand test coverage with more comprehensive unit and integration tests</li>
+      <li>Explore React Native for cross-platform mobile development</li>
+      <li>Implement a headless CMS for easier content management</li>
+    </ul>
+  </section>
 
-## 🔧 Technologies Used
+  <hr>
 
-- ⚛️ React
-- ▲ Next.js
-- 📜 JavaScript (ES6+)
-- 🔄 Redux
-- 💅 Styled Components
-- 🎨 Material-UI
-- 🧪 React Testing Library
-- 🌐 HTML5 & TailwindCSS
+  <section id="contact">
+    <h2>📬 Get in Touch</h2>
+    <p>📧 mohamedaminemounir7@gmail.com</p>
+    <p>Feel free to explore my portfolio and reach out if you'd like to collaborate or have any questions!</p>
+  </section>
 
----
-
-## 📂 Project Structure
-
+</body>
+</html>
