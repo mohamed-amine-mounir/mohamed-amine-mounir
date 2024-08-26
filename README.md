@@ -62,17 +62,6 @@
 ## 📂 Project Structure
 
 ```
-src/
-|-- components/
-|-- pages/
-|-- styles/
-|-- utils/
-|-- hooks/
-|-- context/
-|-- redux/
-|-- api/
-|-- tests/
-## 🌱 Learning Journey
 
 My portfolio is a testament to my continuous growth in React and Next.js, featuring:
 
@@ -95,6 +84,6 @@ My portfolio is a testament to my continuous growth in React and Next.js, featur
 📧 mohamedaminemounir7@gmail.com
 
 ---
-
+---
 Feel free to explore my portfolio and reach out if you'd like to collaborate or have any questions!
 (https://amine-dev-bice.vercel.app/)
