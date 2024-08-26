@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mohamed Amine Mounir - Front-End Developer Portfolio</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -97,18 +96,7 @@ src/
     </pre>
   </section>
 
-  <hr>
 
-  <section id="future-enhancements">
-    <h2>🔮 Future Enhancements</h2>
-    <ul>
-      <li>Implement advanced React patterns (e.g., render props, higher-order components)</li>
-      <li>Integrate GraphQL with Apollo Client for optimized data fetching</li>
-      <li>Expand test coverage with more comprehensive unit and integration tests</li>
-      <li>Explore React Native for cross-platform mobile development</li>
-      <li>Implement a headless CMS for easier content management</li>
-    </ul>
-  </section>
 
   <hr>
 
