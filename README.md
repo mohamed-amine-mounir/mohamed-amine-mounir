@@ -41,7 +41,6 @@
     <h2>📚 Key React Libraries and Skills</h2>
     <ul>
       <li><strong>⚛️ React Router</strong>: Seamless client-side routing</li>
-      <li><strong>🔄 Redux</strong>: Robust state management for complex applications</li>
       <li><strong>🔍 React Query</strong>: Efficient server state management and API integration</li>
       <li><strong>💅 Styled Components</strong>: Elegant component-level styling</li>
       <li><strong>🎨 Material-UI</strong>: Sleek and responsive UI components</li>
@@ -70,9 +69,7 @@
     <h2>🔧 Technologies Used</h2>
     <ul>
       <li>⚛️ React</li>
-      <li>▲ Next.js</li>
       <li>📜 JavaScript (ES6+)</li>
-      <li>🔄 Redux</li>
       <li>💅 Styled Components</li>
       <li>🎨 Material-UI</li>
       <li>🧪 React Testing Library</li>
@@ -103,7 +100,6 @@ src/
   <section id="contact">
     <h2>📬 Get in Touch</h2>
     <p>📧 mohamedaminemounir7@gmail.com</p>
-    <p>Feel free to explore my portfolio and reach out if you'd like to collaborate or have any questions!</p>
   </section>
 
 </body>
