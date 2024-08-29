@@ -41,7 +41,6 @@
     <h2>📚 Key React Libraries and Skills</h2>
     <ul>
       <li><strong>⚛️ React Router</strong>: Seamless client-side routing</li>
-      <li><strong>🔍 React Query</strong>: Efficient server state management and API integration</li>
       <li><strong>💅 Styled Components</strong>: Elegant component-level styling</li>
       <li><strong>🎨 Material-UI</strong>: Sleek and responsive UI components</li>
       <li><strong>🧪 React Testing Library</strong>: Comprehensive unit and integration testing</li>
