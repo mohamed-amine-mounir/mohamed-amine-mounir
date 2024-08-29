@@ -12,7 +12,6 @@
   </header>
 
   <section id="intro">
-    
     <p>🚀 Aspiring junior developer with a passion for creating efficient, user-friendly web applications and a strong foundation in ReactJs NextJs TailwindCss</p>
   </section>
 
