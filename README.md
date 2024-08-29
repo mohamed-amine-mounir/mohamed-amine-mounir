@@ -12,7 +12,8 @@
   </header>
 
   <section id="intro">
-    <p>🚀 Welcome to my personal portfolio website, showcasing my journey as a passionate junior front-end developer specializing in React and Next.js. This digital space highlights my expertise in modern web development and my proficiency in the React ecosystem.</p>
+    
+    <p>🚀 Aspiring junior developer with a passion for creating efficient, user-friendly web applications and a strong foundation in ReactJs NextJs TailwindCss</p>
   </section>
 
   <hr>
