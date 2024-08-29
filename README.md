@@ -7,7 +7,7 @@
 </head>
 <body>
   <header>
-    <h1>Mohamed Amine Mounir - Front-End Developer Portfolio</h1>
+    <h1>Mohamed Amine Mounir - Front-End Developer </h1>
     <a href="https://amine-dev-bice.vercel.app/" target="_blank">Explore my portfolio</a>
   </header>
 
