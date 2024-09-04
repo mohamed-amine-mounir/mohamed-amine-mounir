@@ -1,105 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <header>
-    <h1>Mohamed Amine Mounir - Front-End Developer </h1>
-    <a href="https://amine-dev-bice.vercel.app/" target="_blank">Explore my portfolio</a>
-  </header>
-
-  <section id="intro">
-    <p>🚀 Aspiring junior developer with a passion for creating efficient, user-friendly web applications and a strong foundation in ReactJs NextJs TailwindCss</p>
-  </section>
-
-  <hr>
-
-  <section id="skills">
-    <h2>🛠️ Skills</h2>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,next" alt="Skills" />
-    </a>
-  </section>
-
-  <hr>
-
-  <section id="connect">
-    <h2>🌐 Connect with Me</h2>
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/mohamed-amine-mounir/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-      </a>
-    </div>
-  </section>
-
-  <hr>
-
-  <section id="libraries">
-    <h2>📚 Key React Libraries and Skills</h2>
-    <ul>
-      <li><strong>⚛️ React Router</strong>: Seamless client-side routing</li>
-      <li><strong>💅 Styled Components</strong>: Elegant component-level styling</li>
-      <li><strong>🎨 Material-UI</strong>: Sleek and responsive UI components</li>
-      <li><strong>🧪 React Testing Library</strong>: Comprehensive unit and integration testing</li>
-      <li><strong>🧹 ESLint & Prettier</strong>: Ensuring code quality and consistency</li>
-    </ul>
-  </section>
-
-  <hr>
-
-  <section id="features">
-    <h2>✨ Features</h2>
-    <ul>
-      <li><strong>🚀 Server-Side Rendering (SSR)</strong>: Optimized performance and SEO with Next.js</li>
-      <li><strong>📱 Responsive Design</strong>: Seamless experience across all devices</li>
-      <li><strong>🔗 Dynamic Routing</strong>: Engaging project showcases with dynamic routes</li>
-      <li><strong>🔄 State Management</strong>: Demonstrated proficiency with Redux</li>
-      <li><strong>🌐 API Integration</strong>: Mastery of React Query and Axios</li>
-      <li><strong>🎨 UI Components</strong>: Stylish designs using Material-UI</li>
-    </ul>
-  </section>
-
-  <hr>
-
-  <section id="technologies">
-    <h2>🔧 Technologies Used</h2>
-    <ul>
-      <li>⚛️ React</li>
-      <li>📜 JavaScript (ES6+)</li>
-      <li>💅 Styled Components</li>
-      <li>🎨 Material-UI</li>
-      <li>🧪 React Testing Library</li>
-      <li>🌐 HTML5 & TailwindCSS</li>
-    </ul>
-  </section>
-
-  <hr>
-
-  <section id="project-structure">
-    <h2>📂 Project Structure</h2>
-    <pre>
-src/
-├── components/
-├── imgs/
-├── sections/
-├── App.css
-├── App.jsx
-├── index.css
-└── index.jsx
-    </pre>
-  </section>
+# 💫 About Me:
+Développeur Front-End passionné et motivé, spécialisé en <br>React.js, Next.js et technologies web modernes. Expérience <br>avérée dans la création d'applications web réactives et <br>centrées sur l'utilisateur. Récemment certifié en <br>développement React avancé, démontrant un engagement <br>continu dans l'apprentissage et l'adaptation aux nouvelles <br>technologies. Désireux de contribuer avec mes compétences <br>techniques actualisées et ma créativité à des projets <br>innovants au sein d'une équipe dynamique. 
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-amine-mounir/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@amine__Tech..) 
 
-  <hr>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohamed amine mounir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed amine mounir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed amine mounir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <section id="contact">
-    <h2>📬 Get in Touch</h2>
-    <p>📧 mohamedaminemounir7@gmail.com</p>
-  </section>
+---
+[![](https://visitcount.itsvg.in/api?id=mohamed amine mounir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</body>
-</html>
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/medmaine) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
