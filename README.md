@@ -43,7 +43,7 @@ Passionné par le développement web moderne, je crée des applications réactiv
 
 - **Développement Web Front-End (2023 – 2024)**
   - Certificat de formation intensive en React (2024)
-  - Certificat "React – The Complete Guide" par Jonas Schmedtmann (Udemy)
+  - "React – The Complete Guide" par Jonas Schmedtmann (Udemy)
   - Cours JavaScript et CSS par Elzero Web School (YouTube)
 
 ### 💼 Expérience Professionnelle
@@ -70,9 +70,9 @@ Passionné par le développement web moderne, je crée des applications réactiv
 - Méthodologies : Développement Agile, Clean Code, Optimisation des performances
 
 ---
-
+<b>
 Je suis toujours à la recherche de nouvelles opportunités pour apprendre et grandir dans le domaine du développement web. N'hésitez pas à me contacter pour discuter de projets passionnants ou d'opportunités de collaboration !
-
+</b>
 
 
 
