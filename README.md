@@ -1,8 +1,8 @@
 # 👨‍💻 Mounir Mohamed Amine
 
-## 🚀 Développeur Front-End React.js | Next.js
+## 🚀 React Front-End Developer in Training
 
-Passionné par le développement web moderne, je crée des applications réactives et centrées sur l'utilisateur. Mon expertise technique, combinée à ma créativité et mon engagement envers l'apprentissage continu, me permet de contribuer efficacement à des projets innovants.
+Passionate about modern web development, focusing on building reactive and user-centric applications. Currently deepening my expertise in React.js and its ecosystem through intensive self-study and project building.
 
 ### 📞 Contact
 
@@ -11,68 +11,75 @@ Passionné par le développement web moderne, je crée des applications réactiv
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-amine-mounir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaminemounir7@gmail.com)
 
-### 🛠 Compétences Techniques
+### 🛠 Technical Skills
 
+#### Core React Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- Components & JSX
+- Props & State Management
+- Hooks (useState, useEffect, useRef)
+- Forms & Controlled Components
+- Performance Optimization
+
+#### State Management
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-### 🏆 Projets Clés
+- Redux Fundamentals
+- Context API Implementation
+- Global State Management
 
-1. **Site Web E-commerce**
-   - Technologies : React.js, Vite, Tailwind CSS, Firebase
-   - Fonctionnalités : Interface utilisateur interactive, gestion d'état globale (useContext, useState), système de panier, filtrage des produits, authentification
+#### Routing & Navigation
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+- Dynamic Routes
+- Protected Routes
+- Navigation Management
 
-2. **Site Web de Restaurant**
-   - Technologies : React.js, Vite, Tailwind CSS, Firebase, Framer Motion
-   - Fonctionnalités : Design responsive avec animations, système de réservation en temps réel, menu dynamique avec filtres, optimisation des performances (lazy loading)
+#### Styling & UI
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📚 Formation
+### 🚀 Current Learning Focus
+- Advanced React Patterns
+- Performance Optimization
+- Modern React Development Practices
+- Building Real-World Applications
 
-- **Développement Web Front-End (2023 – 2024)**
-  - Certificat de formation intensive en React (2024)
-  - "React – The Complete Guide" par Jonas Schmedtmann (Udemy)
-  - Cours JavaScript et CSS par Elzero Web School (YouTube)
+### 📚 Recent Projects
 
-### 💼 Expérience Professionnelle
+1. **Fast React Pizza Co. Project**
+   - Interactive Pizza Ordering System
+   - State Management with Redux
+   - Responsive Design with Tailwind CSS
+   - Form Handling and Validation
 
-- **Assistant Administratif**, Lycée Ibn Abdoun (2022, 3 mois)
-  - Développement de compétences organisationnelles et de communication professionnelle
+2. **The Wild Oasis Project**
+   - Complex State Management
+   - Custom Hooks Implementation
+   - Performance Optimization
+   - Modern React Patterns
 
-### 🌟 Compétences Transversales
+### 📈 Learning Progress
 
-- Apprentissage rapide et adaptabilité
-- Résolution de problèmes et pensée analytique
-- Collaboration efficace en équipe
-- Explication claire des concepts techniques
-- Forte éthique de travail et souci du détail
+- ✅ React Fundamentals
+- ✅ State Management
+- ✅ Side Effects & Data Fetching
+- ✅ React Router
+- ✅ Context API
+- ✅ Essential Hooks
+- 🔄 Performance Optimization
+- 🔄 Modern React Patterns
+- 🔄 Basic Redux
 
-### 📈 Statistiques GitHub
+### 🌟 Key Strengths
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=mohamed-amine-mounir&show_icons=true&theme=radical)
-
-### 🌐 Informations Complémentaires
-
-- Disponible pour une mobilité géographique ou un travail à distance
-- Passionné par les dernières technologies front-end et les meilleures pratiques
-- Méthodologies : Développement Agile, Clean Code, Optimisation des performances
+- Rapid learning and adaptation
+- Problem-solving mindset
+- Clean and maintainable code
+- Modern React best practices
+- Performance-focused development
 
 ---
+
 <b>
-Je suis toujours à la recherche de nouvelles opportunités pour apprendre et grandir dans le domaine du développement web. N'hésitez pas à me contacter pour discuter de projets passionnants ou d'opportunités de collaboration !
+Currently seeking opportunities to apply and expand my React development skills. Open to collaboration and learning opportunities!
 </b>
-
-
-
-
